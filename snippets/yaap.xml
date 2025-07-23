@@ -46,6 +46,7 @@
 
   <!-- External -->
   <project path="external/arm-optimized-routines" name="external_arm-optimized-routines" remote="yaap" />
+  <project path="external/bouncycastle" name="external_bouncycastle" remote="yaap" />
   <project path="external/calyx/chromium" name="CalyxOS/platform_external_calyx_chromium" remote="gitlab" revision="android15-qpr2" clone-depth="1" >
     <linkfile src="os_pickup.bp" dest="prebuilts/calyx/chromium/Android.bp" />
   </project>
