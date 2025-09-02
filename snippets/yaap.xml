@@ -149,6 +149,11 @@
   <!--Kernel Config-->
   <project path="kernel/configs" name="kernel_configs" remote="yaap" />
 
+  <!-- Lindroid -->
+  <project path="libhybris" name="libhybris" remote="yaap" />
+  <project path="external/lxc" name="external_lxc" remote="yaap" />
+  <project path="vendor/lindroid" name="vendor_lindroid" remote="yaap" />
+
   <!-- Packages -->
   <project path="packages/apps/Aperture" name="packages_apps_Aperture" remote="yaap" />
   <project path="packages/apps/Camera2" name="packages_apps_Camera2" remote="yaap" />
