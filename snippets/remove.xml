@@ -28,7 +28,6 @@
   <remove-project name="platform/external/exfatprogs" />
   <remove-project name="platform/external/f2fs-tools" />
   <remove-project name="platform/external/freetype" />
-  <remove-project name="platform/external/jemalloc_new" />
   <remove-project name="platform/external/libcxx" />
   <remove-project name="platform/external/libdav1d" />
   <remove-project name="platform/external/libfuse" />
