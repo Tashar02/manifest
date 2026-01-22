@@ -11,6 +11,10 @@
            fetch="https://github.com/yaap"
            revision="refs/heads/seventeen" />
 
+  <remote  name="Tashar02"
+           fetch="https://github.com/Tashar02"
+           revision="refs/heads/sixteen" />
+
   <!-- General -->
   <project path="art" name="art" remote="yaap" />
   <project path="bootable/deprecated-ota" name="bootable_deprecated-ota" remote="yaap" />
@@ -75,7 +79,7 @@
 
   <!-- Frameworks -->
   <project path="frameworks/av" name="frameworks_av" remote="yaap" />
-  <project path="frameworks/base" name="frameworks_base" remote="yaap" />
+  <project path="frameworks/base" name="frameworks_base" remote="Tashar02" />
   <project path="frameworks/libs/systemui" name="frameworks_libs_systemui" remote="yaap" />
   <project path="frameworks/minikin" name="frameworks_minikin" remote="yaap" />
   <project path="frameworks/native" name="frameworks_native" remote="yaap" />
