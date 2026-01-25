@@ -77,6 +77,7 @@
   <remove-project name="platform/packages/modules/Nfc" />
   <remove-project name="platform/packages/modules/Permission" />
   <remove-project name="platform/packages/modules/StatsD" />
+  <remove-project name="platform/packages/modules/UprobeStats" />
   <remove-project name="platform/packages/modules/Wifi" />
   <remove-project name="platform/packages/providers/BlockedNumberProvider" />
   <remove-project name="platform/packages/providers/BookmarkProvider" />
