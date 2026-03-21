@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote fetch="https://git.codelinaro.org/clo/la" name="clo-la"/>
-  <default remote="clo-la" revision="dummy_revision" sync-c="true" sync-tags="false"/>
   <project remote="clo-la" name="platform/hardware/qcom/audio-ar" path="vendor/qcom/opensource/audio-hal/primary-hal" revision="6189469bac10ba2a3694a6e0e9678df260e412b6" upstream="refs/heads/audio-ahal-iot.lnx.11.0.r5-rel" groups="base">
     <linkfile dest="vendor/qcom/defs/product-defs/vendor/audio_vendor_product.mk" src="configs/audio_vendor_product.mk"/>
     <linkfile dest="vendor/qcom/defs/product-defs/vendor/audio-techpack.mk" src="configs/vienna/audio-techpack.mk"/>

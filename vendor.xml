@@ -7,8 +7,6 @@
     <image name="VIDEO.LA.5.1.R1" project="techpack/video/manifest" server="https://git.codelinaro.org/clo/la" tag="AU_TECHPACK_VIDEO.LA.5.1.R1.00.00.00.000.014" targets="dummy"/>
     <image name="LA.QISI.16.0.R1" project="la/system/manifest" server="https://git.codelinaro.org/clo/la" tag="AU_LINUX_ANDROID_LA.QISI.16.0.R1.11.00.00.1400.009" targets="dummy"/>
   </refs>
-  <remote fetch="https://git.codelinaro.org/clo/la" name="clo-la"/>
-  <default remote="clo-la" revision="dummy_revision" sync-c="true" sync-tags="false"/>
   <project remote="clo-la" name="device/qcom/common" path="device/qcom/common" revision="7c2b69f2b8bc3f891fa297cd6a7f2b80b33d7504" upstream="refs/heads/qcom-devices.lnx.16.0.r3-rel">
     <linkfile dest="vendor/qcom/build/tasks/generate_extra_images.mk" src="generate_extra_images.mk"/>
   </project>
