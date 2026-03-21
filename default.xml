@@ -13,5 +13,6 @@
   <include name="vendor.xml"/>
   <include name="audio.xml"/>
   <include name="graphics.xml"/>
+  <include name="video.xml"/>
 
 </manifest>
