@@ -108,5 +108,6 @@
   <remove-project name="platform/system/sepolicy" />
   <remove-project name="platform/system/update_engine" />
   <remove-project name="platform/system/vold" />
+  <remove-project name="platform/system/fs/fs_mgr" />
   <remove-project name="platform/tools/apksig" />
 </manifest>
