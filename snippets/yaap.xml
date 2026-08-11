@@ -83,6 +83,7 @@
   <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="yaap" />
   <project path="frameworks/opt/timezonepicker" name="frameworks_opt_timezonepicker" remote="yaap" />
   <project path="frameworks/opt/net/ims" name="frameworks_opt_net_ims" remote="yaap" />
+  <project path="frameworks/rs" name="frameworks_rs" remote="yaap" />
 
   <!-- Hardware -->
   <project path="hardware/google/pixel" name="hardware_google_pixel" remote="yaap" />
