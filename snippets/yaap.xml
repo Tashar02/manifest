@@ -13,7 +13,7 @@
 
   <remote  name="Tashar02"
            fetch="https://github.com/Tashar02"
-           revision="refs/heads/sixteen" />
+           revision="refs/heads/seventeen" />
 
   <!-- General -->
   <project path="art" name="art" remote="yaap" />
@@ -107,7 +107,7 @@
   <project path="hardware/qcom-caf/sm8650/audio/primary-hal" name="hardware_qcom_audio-ar-sm8650" remote="yaap" />
   <project path="hardware/qcom-caf/sm8650/dataipa" name="vendor_qcom_opensource_dataipa-sm8650" remote="yaap" />
   <project path="hardware/qcom-caf/sm8650/data-ipa-cfg-mgr" name="vendor_qcom_opensource_data-ipa-cfg-mgr-sm8650" remote="yaap" />
-  <project path="hardware/qcom-caf/sm8650/display" name="hardware_qcom-caf_sm8650_display" remote="Tashar02" revision="sixteen-staging" />
+  <project path="hardware/qcom-caf/sm8650/display" name="hardware_qcom-caf_sm8650_display" remote="Tashar02" revision="seventeen-staging" />
   <project path="hardware/qcom-caf/sm8650/media" name="hardware_qcom-caf_sm8650_media" remote="yaap" />
   <project path="hardware/qcom-caf/wlan" name="hardware_qcom-caf_wlan" remote="yaap" />
   <project path="hardware/qcom-caf/common" remote="yaap" name="hardware_qcom-caf_common" revision="sixteen-staging" >
