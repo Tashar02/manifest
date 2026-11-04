@@ -15,6 +15,10 @@
            fetch="https://github.com/Tashar02"
            revision="refs/heads/seventeen" />
 
+  <remote  name="EmanuelCN"
+           fetch="https://github.com/EmanuelCN"
+           revision="refs/heads/17" />
+
   <!-- General -->
   <project path="art" name="art" remote="yaap" />
   <project path="bootable/deprecated-ota" name="bootable_deprecated-ota" remote="yaap" />
@@ -80,6 +84,7 @@
   <project path="external/vim" name="external_vim" remote="yaap" />
   <project path="external/vixl" name="external_vixl" remote="yaap" />
   <project path="external/wpa_supplicant_8" name="external_wpa_supplicant_8" remote="yaap" />
+  <project path="external/zlib" name="zlib-ng" remote="EmanuelCN" />
   <project path="external/zstd" name="external_zstd" remote="yaap" />
 
   <!-- Frameworks -->
